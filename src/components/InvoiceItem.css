@@ -1,0 +1,20 @@
+.tableBg{
+    background-color:rgb(222,226,230) !important;
+}
+.aad-btn{
+border: 2px #DEE2E6 dashed !important;
+color: black;
+background-color:#F8F9FA;
+font-weight: 600;
+}
+.aad-btn:hover{
+    border: 2px #0c70d3 solid !important;
+    background-color:#F8F9FA;
+    color: black;
+}
+.icon-color{
+    color: red !important;
+}
+/* .inputwidth{
+    width: 30% !important;
+} */
